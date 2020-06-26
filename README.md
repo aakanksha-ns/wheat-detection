@@ -25,21 +25,17 @@ Train.csv has columns such as image_id, width and height of the image, and bound
 https://github.com/aakanksha-ns/wheat-detection/blob/master/Deep_Learning_Project_Report.pdf
 
 ## CODE
-Exploratory Data Analysis: 
-
+Exploratory Data Analysis: </br>
 https://github.com/aakanksha-ns/wheat-detection/blob/master/Wheat_Detection_EDA.ipynb
 
 
-Faster RCNN attempt 1: 
-
+Faster RCNN attempt 1: </br>
 https://github.com/aakanksha-ns/wheat-detection/blob/master/FasterRCNN_attempt1.ipynb
 
 
-Final Training notebook:
-
+Final Training notebook: </br>
 https://github.com/aakanksha-ns/wheat-detection/blob/master/faster_r-CNN_resnet152_train.ipynb
 
 
-Final Inference notebook:
-
+Final Inference notebook: </br>
 https://github.com/aakanksha-ns/wheat-detection/blob/master/faster_r-CNN_Inference.ipynb
