@@ -16,6 +16,8 @@ Kaggle competition link: https://www.kaggle.com/c/global-wheat-detection
 ## DATA
 Training data consists of 3422 image files, totaling around 613 Mb.
 Train.csv has columns such as image_id, width and height of the image, and bounding box dimension [xmin, ymin, width, height]
+
+
 ![image info](./images/bb.png)
 
 ## FINAL REPORT
